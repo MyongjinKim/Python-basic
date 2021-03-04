@@ -1,5 +1,5 @@
 import os
-file_path = ~/blablabla  ##put your file path which includes all what you wanna change name at the same time
+file_path = ~/blablabla  ##put your file path which includes all what you wanna change name at the same time in sequence
 file_names =os.listdir(file_path)  ## you can take all file list included your file_path
 
 i=1
